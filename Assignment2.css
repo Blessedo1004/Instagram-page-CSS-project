@@ -1,0 +1,437 @@
+body{
+	height:1400px;	
+}
+/*Div 1 starts here*/
+#Div1{
+	background-color:white;
+	border-bottom:0.5px solid rgb(227, 227, 227);
+	width:1100px;
+	height:70px;
+	position:fixed;
+	top:1px;
+}
+/*Image div one*/
+.img-1{
+	margin-left:90px;
+	margin-top:20px;
+}
+/*Search bar*/
+.Search-bar{
+	margin-left:500px;
+	margin-top:-30px;
+}
+input{
+	width:200px;
+	height:20px;
+}
+/*Image div two*/
+.Image-div2{
+	float:right;
+	margin-right:50px;
+	margin-top:-27px;
+}
+.img-2{
+	margin-right:20px;
+}
+.img-3{
+	margin-right:20px;
+}
+.img-4{
+margin-right:20px;	 
+}
+.img-5{
+margin-right:20px;	
+}
+.img-6{
+	
+}
+/*Div 1 ends here*/
+
+/*Div 2 starts here*/
+#Div2{
+	border:0.5px solid rgb(227, 227, 227);
+	width:655px;
+	height:120px;
+	margin-top:10px;
+	margin-left:85px;
+	position:fixed;
+	background-color:white;
+	top:80px;
+}
+.Image-div3{
+	margin-left:20px;
+	margin-top:10px;
+	
+}
+.img-7{
+	height:80px;
+	margin-left:10px;
+	margin-right:20px;
+}
+.img-8{
+	height:80px;
+	margin-right:20px;
+}
+.img-9{
+	height:80px;
+	margin-right:20px;
+}
+.img-10{
+	height:80px;
+	margin-right:20px;
+}
+.img-11{
+	height:80px;
+	margin-right:20px;
+}
+.img-12{
+	height:80px;
+}
+.image-text{
+	margin-left:10px;
+}
+.text-1{
+	margin-bottom:10px;
+	color:grey;
+}
+.text-2{
+	margin-left:108px;
+	margin-top:-28px;
+	color:grey;
+}
+.text-3{
+	margin-left:217px;	
+	margin-top:-18px;
+	color:grey;
+}
+.text-4{
+	margin-left:312px;
+	margin-top:-18px;	
+	color:grey;
+}
+.text-5{
+	margin-left:415px;	
+	margin-top:-18px;
+	color:grey;
+}
+.text-6{
+	margin-left:518px;
+	margin-top:-18px;
+	color:grey;
+}
+/*Div 2 ends here*/
+
+/*Div 3 starts here*/
+#Div3{
+	margin-left:750px;
+	margin-top:-120px;
+	position:fixed;
+	float:right;
+}
+.img-13{
+	height:65px;
+	float:right;
+	margin-right:-70px;
+	margin-bottom:-70px;
+}
+
+.text-7{
+	margin-left:100px;
+	float:right;
+	margin-right:-150px;
+	margin-top:93px;
+	float:right;
+	margin-right:-135px;
+	margin-top:10px;
+}
+.text-8{
+	float:right;
+	margin-right:-210px;
+	margin-top:30px;
+	color:grey;
+	font-size:13.5px;	
+}
+.text-9{
+	float:right;
+	margin-right:-150px;
+	margin-top:93px;
+	color:grey;
+}
+.text-10{
+	float:right;
+	margin-right:-340px;
+	margin-top:92px;
+	font-size:13.5px;
+}
+.Image-div5{
+	float:right;
+	margin-right:-115px;
+	margin-top:125px;
+}
+.img-14{
+	height:52px;
+	margin-left:10px;
+}
+.text-11{
+	float:right;
+	margin-right:-54.7px;
+	margin-top:6px;
+	margin-left:15px;
+}
+.text-12{
+	float:right;
+	margin-top:30px;
+	color:grey;
+	font-size:13.5px;
+	margin-left:-100px;
+	margin-right:-83px;
+}
+.text-13{
+	float:right;
+	margin-right:-278px;
+	margin-top:20px;
+	font-size:13.5px;
+	color:rgb(0, 153, 255);
+}
+.text-14{
+	float:right;
+	margin-right:-39px;
+	margin-top:6px;	
+}
+.text-15{
+	float:right;
+	margin-right:-69px;
+	margin-top:30px;
+	color:grey;
+	font-size:13.5px;	
+}
+.text-16{
+	float:right;
+	margin-right:-262px;
+	margin-top:20px;
+	font-size:13.5px;
+	color:rgb(0, 153, 255);	
+}
+.text-17{
+	float:right;
+	margin-right:-115px;
+	margin-top:6px;
+}
+.text-18{
+	float:right;
+	margin-right:-67px;
+	margin-top:30px;
+	color:grey;
+	font-size:13.5px;
+}	
+.text-19{
+	float:right;
+	margin-right:-261px;
+	margin-top:20px;
+	font-size:13.5px;
+	color:rgb(0, 153, 255);
+}
+.text-20{
+	float:right;
+	margin-right:-130px;
+	margin-top:6px;	
+}
+.text-21{
+	float:right;
+	margin-right:-67px;
+	margin-top:30px;
+	color:grey;
+	font-size:13.5px;
+}
+.text-22{
+	float:right;
+	margin-right:-262px;
+	margin-top:20px;
+	font-size:13.5px;
+	color:rgb(0, 153, 255);
+}
+.text-23{
+	float:right;
+	margin-right:-28px;
+	margin-top:6px;
+}
+.text-24{
+	float:right;
+	margin-right:-67px;
+	margin-top:30px;
+	color:grey;
+	font-size:13.5px;
+}
+.text-25{
+	float:right;
+	margin-right:-262px;
+	margin-top:20px;
+	font-size:13.5px;
+	color:rgb(0, 153, 255);
+}
+.img-15{
+	height:52px;
+	margin-left:12px;
+}
+.img-16{
+	height:52px;
+	margin-left:10px;
+}
+.img-17{
+	height:52px;
+	margin-left:10px;
+}
+.img-18{
+	height:52px;
+	margin-left:10px;
+	
+}
+.text-26{
+	float:right;
+	margin-top:500px;
+	margin-right:-343px;
+	font-size:13px;
+	color:rgb(219, 215, 215)
+}
+.text-27{
+	float:right;
+	margin-top:520px;
+	margin-right:-210px;
+	font-size:13px;
+	color:rgb(219, 215, 215);
+}
+.text-28{
+	float:right;
+	margin-top:560px;
+	margin-right:-254.5px;
+	font-size:13px;
+	color:rgb(219, 215, 215);
+}
+/*Div four starts here*/
+#Div4{
+	border:0.5px solid rgb(227, 227, 227);
+	width:655px;
+	height:1005px;
+	margin-top:230px;
+	margin-left:85px;
+	position:scroll;
+}
+.img-19{
+	margin-left:15px;
+	margin-top: 10px;
+}
+.img-20{
+	float:right;
+	margin-top: -20px;
+	margin-right:15px;
+	height:30px;
+}
+.text-29{
+	margin-left:80px;
+	margin-top:-35px;
+}
+.img-21{
+	width:655px;
+	margin-top:20px;
+}
+/*Image div six*/
+.Image-div6{
+	margin-top:5px;
+	margin-left:10px;
+}
+.img-22{
+	margin-right:10px;
+	height:22.5px;
+	width:25px;
+	margin-top:5px;
+}
+.img-23{
+	margin-right:7px;
+	margin-top:-5px;
+	height:25px;
+}
+.img-24{
+	transform:rotate(19.5deg);
+	margin-bottom:-1.5px;
+	height:30px;
+	width:25px;
+}
+.img-25{
+	float:right;
+	margin-right:10px;
+	margin-top:10px;
+}
+.text-30{
+	margin-left:10px;
+	margin-top:10px;
+}
+.text-31{
+	margin-left:10px;
+	margin-top:7px;
+}
+.text-32{
+	color:rgb(125, 124, 124);	
+}
+.text-33{
+	color:rgb(186,186,186);
+}
+.text-34{
+	color:rgb(186,186,186);
+	margin-left:10px;
+	margin-top:5px;
+}
+.text-35{
+	margin-left:10px;
+	margin-top:4px;
+}
+.text-36{
+	text-decoration:none;
+}
+.text-37{
+	color:rgb(125, 124, 124);
+}
+.text-38{
+	margin-left:10px;
+	margin-top:4px;
+}
+.text-39{
+	color:rgb(125, 124, 124)
+}
+.text-40{
+	font-size:10px;
+	color:rgb(186,186,186);
+	margin-left:10px;
+	margin-top:10px;
+}
+/*Text div*/
+.text-div2{
+	border-top:0.5px solid rgb(227, 227, 227);
+	margin-top:15px;
+}
+.text-41{
+	margin-left:10px;
+	margin-top:30px;
+	color:grey;
+}
+.text-42{
+	float:right;
+	margin-right:20px;
+	margin-top:-15px;
+	color:rgb(136, 200, 242);
+	font-weight:10px;
+}
+.img-26{
+	float:right;
+	margin-right:10px;
+	width:10px;
+	height:10px;
+	margin-top:2px;
+}
+.img-27{
+	float:right;
+	margin-right:10px;
+	width:10px;
+	height:10px;
+	margin-top:6px;
+}
+/*Div four ends here*/
